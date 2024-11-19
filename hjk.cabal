@@ -40,7 +40,9 @@ library
     , containers
     , dhall
     , directory
+    , extra
     , filepath
+    , hslogger
     , optparse-applicative
     , optparse-text
     , pathwalk
@@ -65,8 +67,10 @@ executable hjk
     , containers
     , dhall
     , directory
+    , extra
     , filepath
     , hjk
+    , hslogger
     , optparse-applicative
     , optparse-text
     , pathwalk
@@ -91,8 +95,10 @@ test-suite hjk-test
     , containers
     , dhall
     , directory
+    , extra
     , filepath
     , hjk
+    , hslogger
     , optparse-applicative
     , optparse-text
     , pathwalk

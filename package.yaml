@@ -22,6 +22,7 @@ description:         Please see the README on GitHub at <https://github.com/levi
 dependencies:
 - base >= 4.7 && < 5
 - containers
+- extra
 - text
 - text-show
 - dhall
@@ -32,6 +33,7 @@ dependencies:
 - Glob
 - process
 - directory
+- hslogger
 
 ghc-options:
 - -Wall
