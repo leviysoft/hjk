@@ -39,3 +39,10 @@ For IntelliJ there is a [Dhall plugin](https://plugins.jetbrains.com/plugin/1388
 ## Usage
 
 You can find an example project using hjk [here](https://github.com/leviysoft/hjk-sample-project).
+
+## Q&A
+
+**Q: Why write build tool for Scala in Haskell?**
+
+**A:** Dhall was chosen as configuration language because of it's features and out-of-the-box editor support, and Dhall is initially written in Haskell.
+You don't have to know Haskell to use hjk, even for extending built-in tasks or writing your own.
