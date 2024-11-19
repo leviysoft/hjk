@@ -49,7 +49,7 @@ library
     , text-show
   default-language: Haskell2010
 
-executable hjk-exe
+executable hjk
   main-is: Main.hs
   other-modules:
       Ui

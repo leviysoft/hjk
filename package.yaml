@@ -47,7 +47,7 @@ library:
   source-dirs: src
 
 executables:
-  hjk-exe:
+  hjk:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
