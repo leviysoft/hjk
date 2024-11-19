@@ -1,0 +1,7 @@
+indentation: 2
+function-arrows: leading-args
+comma-style: trailing
+indent-wheres: true
+record-brace-space: true
+let-style: inline
+single-constraint-parens: auto
