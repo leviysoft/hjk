@@ -18,7 +18,7 @@ hjk uses [Dhall](https://dhall-lang.org/) for configuration, which is a powerful
 ### Prerequisites
 
 For building Scala (or other JVM languages) you need to install [Coursier](https://get-coursier.io/docs/cli-installation).
-Only the `cs` command is required, `scala`, `scalac`, etc. are not required for installation.
+Only the `cs` command is needed, `scala`, `scalac`, etc. are not required for installation.
 
 ### Getting hjk
 
